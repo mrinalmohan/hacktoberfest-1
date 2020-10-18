@@ -2435,7 +2435,7 @@ Noida
  - Place: Bihar, india
  - Bio: CS STUDENT. Graduated in 2023.
  - GitHub: [Vallenain](https://github.com/mrinalmohan)
-  #### Name: Mrinal Mohan
+  #### Name: Mrinal jha 
  - Place: Bihar, india
  - Bio: CS STUDENT. Graduated in 2023.
  - GitHub: [Vallenain](https://github.com/mrinalmohan)
